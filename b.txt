@@ -1,1 +1,2 @@
 Hello file b from dev
+Xin chào mọi người
